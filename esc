@@ -1,0 +1,84 @@
+[33mcommit 94ae7f4937dd3f46e82f3e417c7a3921346a4f2a[m[33m ([m[1;36mHEAD -> [m[1;32mstage[m[33m)[m
+Author: simon <simon@gmail.com>
+Date:   Thu Aug 4 05:42:17 2022 +0000
+
+    dynatrace added for APM
+
+[33mcommit 12982055d1aa352fbca771c5d4e3eda1422862d7[m
+Author: simon <simon@gmail.com>
+Date:   Thu Aug 4 05:39:14 2022 +0000
+
+    tested and approved by the client QA team
+
+[33mcommit 552a165e143302d05f161968211e05a600f43806[m
+Author: simon <simon@gmail.com>
+Date:   Thu Aug 4 05:38:06 2022 +0000
+
+    deployment to the staging environment
+
+[33mcommit bfd2256bacbe42604eabc597761b7e61956d4171[m
+Author: simon <simon@gmail.com>
+Date:   Thu Aug 4 05:35:32 2022 +0000
+
+    info for developers ignored
+
+[33mcommit 5f5361c8d592e8f9f69dedc7dd1eea4f0ef3caa7[m[33m ([m[1;32mmaster[m[33m, [m[1;32mdevelopment[m[33m)[m
+Merge: 4e1cc77 82a593a
+Author: simon <simon@gmail.com>
+Date:   Wed Aug 3 09:00:15 2022 +0000
+
+    conflict resolved
+
+[33mcommit 4e1cc772c15e7ae1aec6434c7e556d538f12669f[m
+Author: simon <simon@gmail.com>
+Date:   Wed Aug 3 08:48:34 2022 +0000
+
+    master deployment
+
+[33mcommit 82a593a74faf2c11d896cd49a38b8c239f23f057[m
+Author: simon <simon@gmail.com>
+Date:   Wed Aug 3 08:46:03 2022 +0000
+
+    deployment$
+
+[33mcommit 7f0897322d018a1b59cd211e42a9dda28df75e14[m
+Author: simon <simon@gmail.com>
+Date:   Wed Aug 3 08:35:39 2022 +0000
+
+    dev env deployment
+
+[33mcommit 8c03fe8a62f5eed95afa9a0fd28396f3d5b823ae[m
+Author: simon <simon@gmail.com>
+Date:   Wed Aug 3 07:42:33 2022 +0000
+
+    .gitignore file created
+
+[33mcommit d8c5929e83e525bb8b580bc7c6b176b134723865[m[33m ([m[1;31mts/master[m[33m)[m
+Author: Lateefa-1 <110452070+Lateefa-1@users.noreply.github.com>
+Date:   Wed Aug 3 01:06:42 2022 -0600
+
+    Create monitor.app
+
+[33mcommit 3b858f5110bd5e3a0dae99814ea07a09ccf320b6[m
+Author: Lateefa-1 <110452070+Lateefa-1@users.noreply.github.com>
+Date:   Wed Aug 3 00:51:41 2022 -0600
+
+    list.java updated with chi
+
+[33mcommit 890d3badb18dfc8bfb4308f6a84b2bfdb89f91dd[m
+Author: simon <simon@gmail.com>
+Date:   Wed Aug 3 06:29:14 2022 +0000
+
+    users list created
+
+[33mcommit 252ae23332a93708ce062e16149345613edb4eab[m
+Author: simon <simon@gmail.com>
+Date:   Tue Aug 2 09:40:38 2022 +0000
+
+    deployment ready
+
+[33mcommit 3dfafcc89f6a667a150319d5a424e5b7842da8e6[m
+Author: simon <simon@gmail.com>
+Date:   Tue Aug 2 09:24:07 2022 +0000
+
+    first application version
